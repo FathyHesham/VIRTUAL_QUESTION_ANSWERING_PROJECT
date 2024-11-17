@@ -149,7 +149,7 @@ VIRTUAL_QUESTION_ANSWERING_PROJECT/
 
 - **Fathy Hesham Fathy**  
   - Machine Learning and NLP Developer  
-  - [GitHub](https://github.com/FathyHesham) | [LinkedIn](https://www.linkedin.com/in/FathyHesham)
+  - [GitHub](https://github.com/FathyHesham) | [LinkedIn](https://www.linkedin.com/in/fathy-hesham-fathy/)
 
 To resolve the **MD047/single-trailing-newline** warning, simply add a blank line at the end of the file. Here's the updated **License** section with a newline at the end:
 
